@@ -1,0 +1,16 @@
+<script>
+export default {
+    data() {
+        return {
+            text: "Ciao a tutti classe 108!",
+        };
+    },
+};
+</script>
+
+<template>
+<h1>{{ text }}</h1>
+</template>
+
+<style>
+</style>
